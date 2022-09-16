@@ -8,3 +8,6 @@ cobol-hello-world
 ```
 docker run -it --rm -p 3270:3270 hermajordoctor/hercules:latest
 ```
+
+### Tutorials
+- [COBOL Programming Course - Open Mainframe Project](https://www.openmainframeproject.org/all-projects/cobolprogrammingcourse)
